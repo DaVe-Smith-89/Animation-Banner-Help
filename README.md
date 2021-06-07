@@ -35,3 +35,13 @@ https://github.com/DaVe-Smith-89/Animation-Banner
 ## Animation Neofetch Banner
 <img src="Neofetch Animation.gif" width="720px">
 <hr>
+<img src="Neofetch Animation.gif" width="720px">
+<hr>
+
+### Neofetch Custom Normal Banner
+<img src="Neofetch Custom Normal.gif" width="720px">
+<hr>
+
+### Neofetch Custom Animation Banner
+<img src="Neofetch Custom Animation.gif" width="720px">
+<hr>
